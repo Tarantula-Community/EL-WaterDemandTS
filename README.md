@@ -5,7 +5,8 @@ The repository reports some applications of ensemble learning methods to water d
 The applications aims to show how ensemble learnig methods may be used to combine multiple machine learning techniques to improve the solution of regression and classification problems, with practical applications to a real case study, using high resolution water-flow measures. 
 
 <a name="Applications"></a>
-## The applications refers to:
+## Applications
+The applications refers to:
 * **BOOTSTRAPPING**
 * **BAGGING**
 * **RANDOM FOREST** *(regression and classification)*
@@ -13,7 +14,7 @@ The applications aims to show how ensemble learnig methods may be used to combin
 
 
 <a name="Data"></a>
-## The Data
+## Data
 
 For the applications reported in this repository, IT has been used the dataset WEUSEDTO-Data vailable at this public repository: https://github.com/AnnaDiMauro/WEUSEDTO-Data 
 
