@@ -9,15 +9,16 @@ The application
 
 
 For the applications reported in this repository, has been used the dataset WEUSEDTO-Data vailable at this public repository: https://github.com/AnnaDiMauro/WEUSEDTO-Data 
-The #water_usages dataset used is a list of records provided as a CSV (Comma Separated Values). Each record characterizes the occurrence of a water usage and is described by the following parameters:
-•	start_date_time: long [sec] it is the starting date-time of the usage as unix epoch
-•	duration: int [ms], how long lasts the usage
-•	liters: int [ml], how many liters of water have been consumed
-•	month:int, month of occurrence
-•	hour:int, hour of the day 
-•	day: int, day of the week {0,…,6}
-•	max_flow: int [ml/sec], maximum flow rate measured during the usage
-•	av_flow_rate: float [ml/sec], the average flow rate calculates for the usage
-•	sec_from_midnight: int, the number of seconds after the midnight
-•	fixture: string, the lable that identifies the fixture (e.g. shower, washbasin, ...)
-•	num_fixture: int, an integer that identifies the fixture (e.g. 0: shower, 1: washbasin, ...)
+
+The ##water_usages dataset used is a list of records provided as a CSV (Comma Separated Values). Each record characterizes the occurrence of a water usage and is described by the following parameters:
+*	##start_date_time: long [sec] it is the starting date-time of the usage as unix epoch
+*	duration: int [ms], how long lasts the usage
+*	liters: int [ml], how many liters of water have been consumed
+*	month:int, month of occurrence
+*	hour:int, hour of the day 
+*	day: int, day of the week {0,…,6}
+*	max_flow: int [ml/sec], maximum flow rate measured during the usage
+*	av_flow_rate: float [ml/sec], the average flow rate calculates for the usage
+*	sec_from_midnight: int, the number of seconds after the midnight
+*	fixture: string, the lable that identifies the fixture (e.g. shower, washbasin, ...)
+*	num_fixture: int, an integer that identifies the fixture (e.g. 0: shower, 1: washbasin, ...)
