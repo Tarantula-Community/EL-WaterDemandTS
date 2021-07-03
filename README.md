@@ -7,7 +7,7 @@ The applications aims to show how ensemble learnig methods may be used to combin
 The applications refers to:
 * **BOOTSTRAPPING**
 * **BAGGING**
-* **RANDOM FOREST**
+* **RANDOM FOREST** *(regression and classification)*
 
 
 
